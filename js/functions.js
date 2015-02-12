@@ -56,6 +56,10 @@ $(document).ready(function() {
 		if (messageText != "") {
 			messages.addMessage(messageText);
 		}
-	});
+	}); 
+	
+	
+	
+	//changing something for git
 
 });
